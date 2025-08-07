@@ -1,6 +1,8 @@
 # 💫 About Me:
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1b00f86d-c36f-4ebb-a797-e183c932142f" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/da730428-63d0-422a-9260-16e7ae63bf88" width="480" height="360"/>
+</div>
 
 <br>
 <br>
