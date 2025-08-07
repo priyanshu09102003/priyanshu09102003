@@ -1,4 +1,9 @@
 # 💫 About Me:
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1b00f86d-c36f-4ebb-a797-e183c932142f" />
+
+<br>
+<br>
 🚀 Full-Stack Developer | AI Innovator | Next.js Specialist | Problem Solving<br><br>I build intelligent web applications that bridge cutting-edge AI with human-centric design. My expertise spans Next.js, React, TypeScript, and the MERN stack, powered by a deep curiosity for Generative AI (LLMs, Gemini, OpenAI). Whether crafting AI chatbots or high-performance web apps, I focus on scalable architecture, clean code, and delightful UX. My engineering mindset – sharpened by DSA (C++/Java) and system design – helps me solve complex problems with elegant solutions.<br><br>🔥 What I Do<br>💻 Full-Stack Development → Next.js | React.js | Node.js | MERN | TypeScript<br>🤖 Generative AI → Chatbots | Content Generators | AI-Powered Apps<br>⚡ Performance & Scalability → Fast, Dynamic, and SEO-friendly Web Apps<br>🧩 Problem Solving → DSA (C++/Java)<br><br>🌱 Current Focus:<br>• Architecting AI-augmented SaaS products<br>• Mastering Data Structures and Algorithms<br>• Exploring Machine Learning
 
 
