@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="./background.png" alt="Header Image" />
+  <img src="./nameplate.jpg" alt="Header Image" />
 </p>
+
+<br>
 
 <div align="center">
 
