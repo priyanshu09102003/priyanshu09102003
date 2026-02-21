@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/priyanshu-paul-59221228a" target="_blank"> 
+<a href="https://www.linkedin.com/in/priyanshu-paul-59221228a" target="_blank"> 
   <img src="https://img.shields.io/badge/LinkedIn-076678?style=for-the-badge&logo=linkedin&logoColor=white"> 
 </a>
 
