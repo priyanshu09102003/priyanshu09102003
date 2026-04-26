@@ -43,5 +43,3 @@
   </table>
 </div>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanshu09102003&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&hide_border=true)
-
