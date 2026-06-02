@@ -21,8 +21,13 @@
 
 # 💫 About Me:
 
-<br>
-🚀 <b>Full-Stack Developer(MERN/ PERN)</b> | <b>GenAI Engineer</b> | <b>RAG Systems</b> | <b>Problem Solving</b><br><br>I build intelligent web applications that bridge cutting-edge AI with human-centric design. My expertise spans Next.js, React, TypeScript, and the MERN stack, powered by a deep curiosity for Generative AI (LLMs, Gemini, OpenAI). Whether crafting AI chatbots or high-performance web apps, I focus on scalable architecture, clean code, and delightful UX. My engineering mindset – sharpened by DSA (C++/Java) and system design – helps me solve complex problems with elegant solutions.<br><br>🔥 What I Do<br>💻 Full-Stack Development → Next.js | React.js | Node.js | MERN | TypeScript<br>🤖 Generative AI → Chatbots | Content Generators | AI-Powered Apps | AI-Workflows <br>⚡ Performance & Scalability → Fast, Dynamic, and SEO-friendly Web Apps<br>🧩 Problem Solving → DSA (C++/Java)<br><br>🌱 Current Focus:<br>• Architecting AI-augmented SaaS products<br>• Mastering Data Structures and Algorithms<br>• Exploring Machine Learning
+<div align = "center">
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Scalable+SaaS+Products;Machine+Learning+Enthusiast+%7C+Generative-AI+Engineer;RAG+Pipelines+%7C+Conversational+AI)](https://git.io/typing-svg)
+  
+</div>
+
+I build intelligent web applications that bridge cutting-edge AI with human-centric design. My expertise spans Next.js, React, TypeScript, and the MERN stack, powered by a deep curiosity for Generative AI (LLMs, Gemini, OpenAI). Whether crafting AI chatbots or high-performance web apps, I focus on scalable architecture, clean code, and delightful UX. My engineering mindset – sharpened by DSA (C++/Java) and system design – helps me solve complex problems with elegant solutions.<br><br>🔥 What I Do<br>💻 Full-Stack Development → Next.js | React.js | Node.js | MERN | TypeScript<br>🤖 Generative AI → Chatbots | Content Generators | AI-Powered Apps | AI-Workflows <br>⚡ Performance & Scalability → Fast, Dynamic, and SEO-friendly Web Apps<br>🧩 Problem Solving → DSA (C++/Java)<br><br>🌱 Current Focus:<br>• Architecting AI-augmented SaaS products<br>• Mastering Data Structures and Algorithms<br>• Exploring Machine Learning
 
 
 # 💻 Tech Stack:
